@@ -80,9 +80,11 @@ Age group profitability
 
 Drivers of returned orders
 
-![]()
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/drivers%20of%20returned%20product.PNG)
 
-Top 10 and Bottom 10 products (image).
+Top 10 Products                                                                                         | Bottom 10 products
+:------------------------------------------------------------------------------------------------------:|:-------------------------------------------:
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/top%2010%20products.PNG)| ![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/bottom%2010%20products.PNG)
 
 
 
