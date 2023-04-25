@@ -13,3 +13,79 @@ This is an analysis of an imaginary store called the **ABC Supermarket** that I 
 4.	Which Ship mode cost the most and by how much? What is the average shipping cost across all sales transactions?
 5.	Which age group of customers are driving profitable, what is the commercial value (Revenue and Profit worth) of each age group?
 6.	The business is looking to understand the drivers of returned orders. Which Product Category, Product Sub-Category, Product, Region, Manager is this predominant to?
+
+## Skills/Concept Demonstrated
+Data Extraction 
+Data exploration and transformations using various Excel functions and formulas like 
+- Date part extraction using the text function, 
+- Data parsing using the text to column function, 
+- The Vlookup formula,
+- If conditional statement and 
+- IFERROR for error trapping among others.
+
+## Data Extraction
+The dataset folder is made up of 3 files:
+- Regional Managers.
+- Returned items.
+- Sales transaction.
+
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/extraction.PNG)
+
+## Data Exploration and Transformation
+I performed some basic and advanced transformations on the dataset using Excel functions and formulas. Some of these are;
+
+1.	Data parsing to break down data into multiple data points and the substite function.
+
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/substitute%20function.PNG)
+
+2.	Date part extraction to extract/dissect the date into multiple data components using the *Text function* 
+
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/Date%20part%20extraction.PNG)
+
+3.  The Concatenate function to combine the text from different cells in one cell.
+
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/Concatenate.PNG)
+
+4.	The Vlookup to look for a specified value across sheets.
+
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/vlookup.PNG)
+
+5.	If Error for error trapping.
+
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/iferror.PNG)
+
+## Analysis
+Here, I used the pivot table to calculate, summarize, and analyze  the data that let me see comparisons, patterns, and trends in the data.
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/Pivot%20table.PNG)
+
+To calculate the minimum, maximum and mean days to ship customers’ orders
+Minimum days to ship = MIN(sales[Daystoship])
+Maximum days to ship = MAX(sales[Daystoship])
+Mean days to ship = AVERAGE(sales[Daystoship]) 
+
+## Visualization using the Pivot Chart
+This report comprises 5 pages;
+
+Product category, customer segment and region catalog
+
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/product%20catalogue.PNG)
+
+Days to ship
+
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/days%20to%20ship.PNG)
+
+Age group profitability
+
+![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/age%20group.PNG)
+
+Drivers of returned orders
+
+![]()
+
+Top 10 and Bottom 10 products (image).
+
+
+
+
+
+
