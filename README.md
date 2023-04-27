@@ -4,7 +4,7 @@ Documentation of Sales Retail Dataset analysis with Excel
 ![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/store%20picture.jpg)
 
 ## Introduction
-This is an analysis of an imaginary store called the **ABC Supermarket** that I completed recently. The project involves data extraction, cleaning, analysis and visualization to derive actionable insights and answer crucial questions in order to help the store make data driven decisions, using Microsoft Excel. This project has helped to enhance my data analytics skills.
+This is an analysis of a project for **ABC Supermarket** that I completed recently. The project involves data extraction, cleaning, analysis and visualization to derive actionable insights and answer crucial questions in order to help the store make data driven decisions, using Microsoft Excel. This project has helped to enhance my data analytics skills.
 
 ## Business Problem
 1.	Which product category, region and Customer Segment is most profitable?
@@ -50,7 +50,7 @@ I performed some basic and advanced transformations on the dataset using Excel f
 
 ![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/vlookup.PNG)
 
-5.	If Error for error trapping.
+5.	IfError for error trapping.
 
 ![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/iferror.PNG)
 
