@@ -97,7 +97,7 @@ From my analysis, it is shown that the store makes more profit during the weeken
 --The products did not match the descriptions.
 
 ## Recommendation
-- Focus should be on the products making large sales and profits and more awareness should be created for the other categories less sales, likewise the age group making less profit. For the returned orders, all products and service descriptions should be as precise and definite as possible because most shoppers rely heavily on accurate and detailed descriptions. Also, the store should be careful about the language used when promoting goods and services. Do not oversell or overstate a product’s capabilities and functions. 
+- Focus should be on the products making large sales and profits and more awareness should be created for the other categories with less sales, likewise the age group making less profit. For the returned orders, all products and service descriptions should be as precise and definite as possible because most shoppers rely heavily on accurate and detailed descriptions. Also, the store should be careful about the language used when promoting goods and services. Do not oversell or overstate a product’s capabilities and functions. 
 - Alternatively, customers should be offered an exchange discount. For example, provide a 10-20% added purchase credit if the customer exchanges the items for something else instead of returning it for cash.
 
 
