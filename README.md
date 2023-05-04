@@ -86,7 +86,19 @@ Top 10 Products                                                                 
 :------------------------------------------------------------------------------------------------------:|:-------------------------------------------:
 ![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/top%2010%20products.PNG)| ![](https://github.com/yemiobolo/ABC-Supermarket-Analysis/blob/main/ABC%20Store/bottom%2010%20products.PNG)
 
+## Conclusions
+- Technology and Corporate are leading in product category and customer segment respectively with Technology having more than the profits made from the other two categories.
+- Most of the profits made are from Ontario, Prarie and West Region which constitute more than 50% of the total profits.
+From my analysis, it is shown that the store makes more profit during the weekends i.e. Friday, Saturday and Sunday, with October having the highest profit of 11.44% closely followed by January with 11.27%.
+- The age group driving profitability is the 45-59 group with over 50% profit recorded followed by 60-74 age group with almost 25% profit. The age group with low profit turnout is between 75-104 with total profit of about 8%.
+- By applying the root cause analysis and the five “whys”, I was able to diagnose the problem and reasons why numerous orders for products were returned. These are;
+--The customer either bought the wrong items or
+--The products were no longer needed or
+--The products did not match the descriptions.
 
+## Recommendation
+- Focus should be on the products making large sales and profits and more awareness should be created for the other categories less sales, likewise the age group making less profit. For the returned orders, all products and service descriptions should be as precise and definite as possible because most shoppers rely heavily on accurate and detailed descriptions. Also, the store should be careful about the language used when promoting goods and services. Do not oversell or overstate a product’s capabilities and functions. 
+- Alternatively, customers should be offered an exchange discount. For example, provide a 10-20% added purchase credit if the customer exchanges the items for something else instead of returning it for cash.
 
 
 
